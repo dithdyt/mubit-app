@@ -75,6 +75,6 @@ lib/
    ```
 
 ## Author
-*   **dithdyt** - *Project Lead & Developer*
+*   **dithdyt** - *Developer*
 
 ---
